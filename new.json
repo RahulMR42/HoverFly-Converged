@@ -1,0 +1,14 @@
+{
+	"data": {
+		"pairs": [],
+		"globalActions": {
+			"delays": [],
+			"delaysLogNormal": []
+		}
+	},
+	"meta": {
+		"schemaVersion": "v5",
+		"hoverflyVersion": "v1.0.0-rc.2",
+		"timeExported": "2019-04-16T07:56:20+05:30"
+	}
+}
